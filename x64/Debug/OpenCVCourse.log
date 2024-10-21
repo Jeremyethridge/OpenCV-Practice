@@ -1,0 +1,3 @@
+﻿  ShapeDetection.cpp
+C:\Users\jerem\source\repos\OpenCVCourse\OpenCVCourse\ShapeDetection.cpp(12,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  OpenCVCourse.vcxproj -> C:\Users\jerem\source\repos\OpenCVCourse\x64\Debug\OpenCVCourse.exe
