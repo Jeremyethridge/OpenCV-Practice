@@ -30,20 +30,14 @@ void main ()
 
 	while (true)
 	{
-
-	
-
 	// Hue, Saturation, and Value minimum and maximum values
 	Scalar lower(hmin, smin, vmin);
 	Scalar upper(hmax, smax, vmax);
-
 	inRange(imgHSV, lower, upper, mask);
 
-
-
 	imshow("Image", img);
-	/*imshow("ImageHSV", imgHSV);*/
+	//imshow("ImageHSV", imgHSV);
 	imshow("Mask", mask);
-	waitKey(1);
+	waitKey(0);
 	};
 }
