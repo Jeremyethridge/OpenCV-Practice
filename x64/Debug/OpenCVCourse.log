@@ -1,2 +1,5 @@
 ﻿  ShapeDetection.cpp
-C:\Users\jerem\source\repos\OpenCVCourse\OpenCVCourse\ShapeDetection.cpp(15,1): error C4716: 'Main': must return a value
+C:\Users\jerem\source\repos\OpenCVCourse\OpenCVCourse\ShapeDetection.cpp(23,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\jerem\source\repos\OpenCVCourse\OpenCVCourse\ShapeDetection.cpp(30,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jerem\source\repos\OpenCVCourse\OpenCVCourse\ShapeDetection.cpp(38,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  OpenCVCourse.vcxproj -> C:\Users\jerem\source\repos\OpenCVCourse\x64\Debug\OpenCVCourse.exe
